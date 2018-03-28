@@ -1,0 +1,60 @@
+{
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"SSC",
+			"school":"Navajeevan High School",
+			"data":["2009","86%"]
+		},
+		{
+			"degree":"Inter/Diploma",
+			"school":"Sri Chaithanya jr. college",
+			"data":["2009-11","90%"]
+		},
+		{
+			"degree":"B-Tech(CSE)",
+			"school":"Bapatla",
+			"data":["2011-15","80%"]
+		}
+	],
+
+	 "skills":[
+
+    {
+    	"name":"Operating system",
+    	"info":["win-10","Fedora","redHat","ubuntu"]
+
+    },
+
+    {
+    	"name":"Languages",
+    	"info":["C","C#","R","python","php"]
+     },
+
+    {
+    	"name":"DataBases",
+    	"info":["MySql","Oracle","mongoDB","PDO"]
+
+    },
+
+    {
+    	"name":"Web Technologies",
+    	"info":["HTML","JavaScript","CSS"]
+
+    },
+
+    {
+    	"name":"Farmes Works",
+    	"info":[".Net","Bootstrap","CodeIgniter"]
+
+    },
+
+    {
+    	"name":"libraries",
+    	"info":["JQuery"]
+
+    }
+    ]
+}
